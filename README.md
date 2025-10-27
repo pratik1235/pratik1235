@@ -2,7 +2,9 @@
 
 # I know
 
-![But_It's_Honest_Work](https://github.com/user-attachments/assets/a047edf5-7b7e-4857-aa86-a63af352088f)
+
+<img src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" width="400">
+<!-- ![But_It's_Honest_Work](https://github.com/user-attachments/assets/a047edf5-7b7e-4857-aa86-a63af352088f) -->
 
 
 <!--
