@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# I know
+
+![But_It's_Honest_Work](https://github.com/user-attachments/assets/a047edf5-7b7e-4857-aa86-a63af352088f)
+
+
 <!--
 **pratik1235/pratik1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
